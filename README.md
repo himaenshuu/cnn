@@ -122,16 +122,6 @@ model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accur
 model.fit(train_data, epochs=10, validation_data=val_data)
 ```
 
-## 📁 Project Structure 📂
-```
-cnn-models/
-│── 📂 data/                    # Dataset directory
-│── 📂 models/                  # Custom model implementations
-│── 📝 train.py                 # Training script
-│── 📝 test.py                  # Evaluation script
-│── 📄 README.md                # Project documentation
-```
-
 ## 📌 Notes 📝💡
 - ✏️ Modify the **training** and **evaluation** scripts as per your dataset.
 - ⚡ Use **GPU acceleration** (`CUDA` or `TensorFlow-GPU`) for **faster training**.
