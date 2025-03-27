@@ -16,7 +16,7 @@ This project demonstrates the implementation of four popular **🌀 Convolutiona
 ## 📋 Prerequisites 🔧
 Ensure you have the following installed:
 
-- 🐍 Python 3.8+
+- 🐍 Python 3.9+
 - 🔥 PyTorch
 - 💡 TensorFlow
 - 📷 OpenCV
