@@ -11,7 +11,7 @@ This project demonstrates the implementation of four popular **🌀 Convolutiona
 - Implemented in **🟠 PyTorch** and **🔵 TensorFlow**.
 - 📦 Pre-trained weights support for transfer learning.
 - 📊 Model training and evaluation on custom datasets.
-- 📈 Performance visualization with metrics like accuracy and loss.
+- 📈 Performance visualization with metrics like accuracy and losses
 
 ## 📋 Prerequisites 🔧
 Ensure you have the following installed:
