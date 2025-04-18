@@ -14,7 +14,7 @@ This project demonstrates the implementation of four popular **🌀 Convolutiona
 - 📈 Performance visualization with metrics like accuracy and losses
 
 ## 📋 Prerequisites 🔧
-Ensure you have the following installed:
+Ensure you have the following installed
 
 - 🐍 Python 3.9+
 - 🔥 PyTorch
