@@ -1,4 +1,4 @@
-# 🧠 CNN Model Implementation (AlexNet, GoogleNet, ResNet, VGG19) 🎯🚀
+# 🧠 CNN Model Implementation (AlexNet, GoogleNet, ResNet, VGG19)
 
 This project demonstrates the implementation of four popular **🌀 Convolutional Neural Networks (CNNs)** using both **🔥 PyTorch** and **💡 TensorFlow**. The models implemented are:-
 
