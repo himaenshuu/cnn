@@ -66,7 +66,7 @@ googlenet = models.googlenet(pretrained=True)
 print(googlenet)
 ```
 
-**💡 TensorFlow Implementation:**
+**💡 TensorFlow Implementation:-**
 ```python
 googlenet = tf.keras.applications.InceptionV3(weights='imagenet')
 googlenet.summary()
