@@ -123,7 +123,7 @@ model.fit(train_data, epochs=10, validation_data=val_data)
 ```
 
 ## 📌 Notes 📝💡
-- ✏️ Modify the **training** and **evaluation** scripts as per your dataset.
+- ✏️ Modify the **training** and **evaluation** scripts as per your dataset:
 - ⚡ Use **GPU acceleration** (`CUDA` or `TensorFlow-GPU`) for **faster training**.
 - 🛠 Experiment with **hyperparameters** to optimize performance.
 
