@@ -131,4 +131,4 @@ model.fit(train_data, epochs=10, validation_data=val_data)
 This project is **open-source**. Feel free to modify and use it as needed! 💻🔓
 
 ---
-💡 **Contributions and feedback are welcome:** 
+💡 **Contributions and feedback are welcome:-** 
