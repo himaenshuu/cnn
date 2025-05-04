@@ -102,7 +102,7 @@ vgg19 = models.vgg19(pretrained=True)
 print(vgg19)
 ```
 
-**💡 TensorFlow Implementation:**
+**💡 TensorFlow Implementation:-**
 ```python
 vgg19 = tf.keras.applications.VGG19(weights='imagenet')
 vgg19.summary()
