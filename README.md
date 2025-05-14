@@ -45,7 +45,7 @@ alexnet = models.alexnet(pretrained=True)
 print(alexnet)
 ```
 
-**💡 TensorFlow Implementation:**
+**💡 TensorFlow Implementation**
 ```python
 import tensorflow as tf
 from tensorflow.keras.applications import AlexNet
