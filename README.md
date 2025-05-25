@@ -25,7 +25,7 @@ Ensure you have the following installed
 - 🖼 Torchvision (for loading pre-trained models)
 - 🗂 TensorFlow Datasets (for loading sample datasets)
 
-Install dependencies using:
+Install dependencies using:-
 ```bash
 pip install torch torchvision tensorflow opencv-python matplotlib numpy tensorflow-datasets
 ```
